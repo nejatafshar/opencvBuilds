@@ -1,0 +1,2 @@
+vc15/** filter=lfs diff=lfs merge=lfs -text
+gcc7/** filter=lfs diff=lfs merge=lfs -text
